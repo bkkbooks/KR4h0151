@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4h0151/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 欽定千叟宴詩
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:42:33.862482'
+  source:
+    repository: kanripo
+    path: KR4h0151/KR4h0151_000.txt
+hash: sha256:8e9accf5646be99bf8bc8d5ac7fcf82f55ad6099e804b70d2f841f16b8a697a8
